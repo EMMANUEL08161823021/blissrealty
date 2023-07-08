@@ -1,0 +1,119 @@
+[
+    {
+        "details": "4 Bedroom Terrace Duplex",
+        "location": "Oduduwa Ikeja Lagos",
+        "price": "250,000,000",
+        "beds": "4",
+        "bathroom": "4",
+        "paragraph": "I am very impressed with the service of Bliss Realty. I'd definitely recommend them to my buddies.",
+        "name": "Oguntolu Emmanuel",
+        "profession": "Web Developer",
+        "toilets": "4",
+        "image" : "./images/ikeja.jpg"
+
+    },
+    {
+        "details": "Newly Built 5 Units Of 4 Bedroom Terrace Duplex ",
+        "location": "Off Oduduwa Crescent, Ikeja Gra Ikeja Lagos",
+        "price": "350,000,000",
+        "beds": "4",
+        "bathroom": "4",
+        "paragraph": "The website design and layout are impressive. It catches te eye and engages the visitor right away.",
+        "name": "Nathaniel Bassey",
+        "profession": "Pastor",
+        "toilets": "4",
+        "image" : "./images/ikeja2.png"
+
+    },
+    {
+        "details": "3 Bedroom Apartment Fully Built",
+        "location": "Abijo Ajah Lagos",
+        "price": "38,000,000",
+        "beds": "3",
+        "name": "Cristiano Ronaldo",
+        "profession": "Footballer",
+        "bathroom": "3",
+        "paragraph": "The website is incredibly user-friendly, making navigation and finding information a breeze",
+        "toilets": "4",
+        "image" : "./images/ajaj.png"
+
+    },
+    {
+        "details": "3 Bedroom Apartment",
+        "location": "Banana Island Ikoyi Lagos",
+        "price": "300,000,000",
+        "name": "Lionel Messi",
+        "profession": "Footballer",
+        "beds": "3",
+        "paragraph": "The website provides valuable and comprehensive information on the subject matter, which is highly appreciated.",
+        "bathroom": "4",
+        "toilets": "4",
+        "image" : "./images/ikoyi.jpeg"
+
+    },
+    {
+        "details": "Land Measuring 2300sqm",
+        "location": "Shonibare Est, Maryland Lagos",
+        "price": "1,200,000,000",
+        "beds": "0",
+        "name": "Elon Musk",
+        "profession": "Economist",
+        "bathroom": "0",
+        "paragraph": "The website is well-organised, with a clear structure that makes it easy to find what you're looking for.",
+        "toilets": "0",
+        "image" : "./images/sale.png"
+
+    },
+    {
+        "details": "Newly Built 4 Bedroom Semi Detached Duplex",
+        "location": "Lekki Phase 2 Lekki Lagos",
+        "price": "95,000,000",
+        "beds": "4",
+        "name": "Samuel Adesanya",
+        "bathroom": "4",
+        "toilets": "5",
+        "profession": "UFC Boxer",
+        "paragraph": "The website captivates visitors with its interactive features, compelling content, and engaging visuals. ",
+        "image" : "./images/ikoyi.jpeg"
+
+    },
+    {
+        "details": "Newly Built 4 Bedroom Semi Detached Duplex",
+        "location": "Orchid Lekki Lagos",
+        "price": "65,000,000",
+        "beds": "4",
+        "name": "Ian Wright",
+        "profession": "Football Analyst",
+        "paragraph": "The bliss realty website is highly responsive and adapts seamlessly to different devices and screen sizes, providing a great user experience across platforms.",
+        "bathroom": "4",
+        "toilets": "5",
+        "image" : "./images/orcid.jpeg"
+
+    },
+    {
+        "details": "4 Bedroom Bungalow",
+        "location": "Ikorodu Lagos",
+        "price": "40,000,000",
+        "name": "Abolade Micheal",
+        "profession": "Pastor",
+        "beds": "4",
+        "paragraph": "The bliss realty website exudes professionalim, reflecting a high standard of design, content, and functionality. It also stands out for its innovative features.",
+        "bathroom": "0",
+        "toilets": "0",
+        "image" : "./images/ikorodu laos.jpeg"
+
+    },
+    {
+        "details": "4 Flats Of 3 Bedroom",
+        "location": "Ijede Ikorodu Lagos",
+        "price": "45,000,000",
+        "beds": "3",
+        "name": "Micheal Jordan",
+        "profession": "Basketballer",
+        "bathroom": "0", 
+        "paragraph": "The website as a well-thought-out design that balances aesthetics and functionality, creating a visually pleasing and user-friendly experience",
+        "toilets": "0",
+        "image" : "./images/ijede.jpeg"
+
+    }
+]
